@@ -1,0 +1,36 @@
+.honda-nav {
+    background: #264653;
+}
+
+.panda-btn {
+    width: 168px;
+    height: 44px;
+    background: #E76F51;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+.honda-images-bike {
+    width: 288px;
+    height: 243px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.honda-images-bike img {
+    width: 100%;
+    height: 100%;
+    filter: grayscale(100%);
+}
+
+.honda-images {
+    width: 288px;
+    height: 243px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.honda-images img {
+    width: 100%;
+    height: 100%;
+}
